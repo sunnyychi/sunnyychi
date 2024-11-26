@@ -34,7 +34,8 @@ I'm a 19-year-old developer from Germany. I started exploring **PHP** when I was
 
 ## 💡 Current Projects:
 
-- **LonaDB-Discord-Logger**: A simple logging system that sends all actions to your server via a Discord webhook. 🛠️  
+- **LonaDB-Discord-Logger**: A simple logging system that sends all actions to your server via a Discord webhook. 🛠️
+- **LonaDB-Automatic-Backups**: A small plugin to create backups of all your LonaDB tables. 💾 
 - **Custom PHP Tools**: Small but powerful applications for various purposes. 🔥  
 
 ---
