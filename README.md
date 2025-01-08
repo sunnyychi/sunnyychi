@@ -9,7 +9,7 @@ I’m a **PHP developer** who codes with **pure PHP** — no frameworks — and 
 
 ## 🌸 About Me
 
-I'm a 19-year-old developer from Germany. I started exploring **PHP** when I was just 12 and have been passionate about creating custom tools ever since. My focus is on delivering exactly what’s needed — without unnecessary bloat! I believe in the power of **raw PHP** to build functional and high-performance solutions. 💖
+I'm a 20-year-old developer from Germany. I started exploring **PHP** when I was just 12 and have been passionate about creating custom tools ever since. My focus is on delivering exactly what’s needed — without unnecessary bloat! I believe in the power of **raw PHP** to build functional and high-performance solutions. 💖
 
 > "Code should be as beautiful as possible, almost like a piece of art!" 🎨
 
