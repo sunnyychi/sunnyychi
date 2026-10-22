@@ -1,49 +1,46 @@
 ![Header Image](https://github.com/sunnyychi/sunnyychi/blob/main/banner.jpg?raw=true)
 
-# 👩‍💻 Hi, I'm Chiara (aka Sunny) 💖
-
-Welcome to my GitHub! 🌸  
-I’m a **PHP developer** who codes with **pure PHP** — no frameworks — and loves crafting clean, efficient solutions. ✨
-
----
-
-## 🌸 About Me
-
-I'm a 20-year-old developer from Germany. I started exploring **PHP** when I was just 12 and have been passionate about creating custom tools ever since. My focus is on delivering exactly what’s needed — without unnecessary bloat! I believe in the power of **raw PHP** to build functional and high-performance solutions. 💖
-
-> "Code should be as beautiful as possible, almost like a piece of art!" 🎨
-
----
-
-## 🚀 What I Do:
-
-- **PHP development** without frameworks — pure, elegant code. ✨  
-- **Database design** and **management** with a focus on performance and scalability. 📊  
-- Developing small, custom **tools** and **scripts** tailored to specific needs. 🔧  
+<div align="center">
+  
+  # 🌸 Hi there, I'm Celeste-Chiara (Sunny)! ✨
+  
+  **"Code is like a good friend — it should always be simple and straightforward."** 😌
+  
+  <p align="center">
+    <a href="https://sunnyychi.is-a.dev/">
+      <img src="https://img.shields.io/badge/Website-sunnyychi.is--a.dev-ffb7c5?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Pure%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/OS-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
+  </p>
+</div>
 
 ---
 
-## 🎨 My Tech Stack:
+### 🎨 About Me
 
-- **PHP** – The art of the web! 🎨  
-- **HTML** & **CSS** – For when a bit of style is needed. 🌸  
-- **JavaScript** – To add those little extras. 💫  
-- **Rocky Linux** – Because every other distribution puts rocks in my path. 💖  
+I'm a developer from Germany who has been coding in **pure PHP** since I was 12!  
+I strongly believe in building clean, lightweight, and efficient solutions without unnecessary framework bloat. To me, well-structured code isn't just logic — it's a piece of art. 🌸
 
----
-
-## 💡 Current Projects:
-
-- **LonaDB-Discord-Logger**: A simple logging system that sends all actions to your server via a Discord webhook. 🛠️
-- **LonaDB-Automatic-Backups**: A small plugin to create backups of all your LonaDB tables. 💾 
-- **Custom PHP Tools**: Small but powerful applications for various purposes. 🔥  
+- 🛠️ **What I'm working on:** Custom PHP framework + package manager.
+- 💡 **Philosophy:** No dependencies, maximum readability, and rock-solid stability.
+- 🖥️ **Environment:** Happily running and deploying on **Rocky Linux** with **Neovim**.
 
 ---
 
-## 🌸 A Little More Love! 💖
+### 🚀 Featured Projects & Contributions
 
-> "Code is like a good friend — it should always be simple and straightforward." 😌  
+- 🗄️ **[LonaDB Ecosystem](https://github.com/LonaDB)** — Contributing to and expanding a document-oriented DBMS written in pure PHP.
+- 🔔 **LonaDB-Discord-Logger** — A lightweight logging plugin that dispatches database actions directly to Discord via webhooks.
+- 💾 **LonaDB-Automatic-Backups** — Automated, hassle-free table backup management for LonaDB instances.
+- ✨ **Custom PHP Tools** — Tailored, dependency-free applications and backend utilities.
 
-Thank you for visiting! Enjoy exploring my repositories and projects. 🧸  
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,linux,git,github&theme=light" alt="Tech Stack" />
+</div>
 
 ![Footer Image](https://github.com/sunnyychi/sunnyychi/blob/main/footer.jpg?raw=true)
